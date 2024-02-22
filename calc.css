@@ -1,0 +1,19 @@
+body{
+    background-image:url(light.jpg);
+    background-repeat:none;
+    background-size:cover;   
+} 
+table{
+    background-color:rgb(12, 12, 12);
+    height: 40px;
+    width: 40px;
+}
+button{
+    background-color: rgb(244, 238, 238);
+    height:30px;
+    width:30px;
+}
+input{
+    height:20px;
+    width:200px;
+}
